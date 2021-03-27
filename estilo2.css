@@ -1,13 +1,12 @@
 .body{
   
   font-family: Courier New;
-  background-image: url("a.jpeg");
+  background-image: url("c.jpg");
 }
 
 .titulo{
   display: flex;
-  background-color: rgba(0,91,114,0.623);
-  backdrop-filter: blur(5px);
+  background-color: #e10cdfa8;
   color: white;
   justify-content: center;
 }
@@ -17,7 +16,7 @@
   
   display: flex;
   justify-content: center;
-  background-color: rgba(0,91,114,0.715);
+  background-color: #e10cdfa8;
   
   color: white;
   margin: 4px;
@@ -45,7 +44,7 @@
 .boton{
   display: flex;
   justify-content: center;
-  background-color: rgba(0,91,114,0.715);
+  background-color: #e10cdfa8;
   border-radius: 5px;
   margin: 3px;
   padding: 12px;
@@ -72,7 +71,7 @@
   display: flex;
   justify-content: center;
   
-  background-color: rgba(0,91,114,0.715);
+  background-color: #e10cdfa8;
   
   margin: 3px;
   padding: 12px;

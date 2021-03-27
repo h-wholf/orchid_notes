@@ -1,0 +1,3 @@
+<br>Php script <br><code class='code'>Un script para instalar  el script en  .shortcuts
+Que si no hay un archivo de la ruta de la carpeta pregunté al usuario la primera vez y después ya no lo haga</code><br><br>Un chat personal <br><code class='code'>Un chat usando el código fuente de orchid-notes 
+Que sea un chat entre dos o más personas y que solo se agregen mensajes de texto  y funcione con engrok</code><br>

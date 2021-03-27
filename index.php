@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1" />
     <title>ORCHID NOTES</title>
-    <link rel="stylesheet" href="estilo.css" type="text/css" media="all" />
+    <link id="cambiar" rel="stylesheet" href="estilo.css" type="text/css" media="all" />
   </head>
   <script src="script.js" type="text/javascript" charset="utf-8"></script>
   <body class="body">

@@ -1,13 +1,13 @@
 .body{
   
   font-family: Courier New;
-  background-image: url("a.jpeg");
+  background-image: url("d.jpeg");
 }
 
 .titulo{
   display: flex;
-  background-color: rgba(0,91,114,0.623);
-  backdrop-filter: blur(5px);
+  background-color: rgba(255, 255, 255, .15);  
+ backdrop-filter: blur(5px);
   color: white;
   justify-content: center;
 }
@@ -17,8 +17,8 @@
   
   display: flex;
   justify-content: center;
-  background-color: rgba(0,91,114,0.715);
-  
+    background-color: rgba(255, 255, 255, .15);  
+ backdrop-filter: blur(5px);
   color: white;
   margin: 4px;
 }
@@ -30,8 +30,8 @@
 .contenido{
   display: flex;
   font-family: Consolas,Comic Sans MS;
-  background-color: #34342edb;
-  
+  background-color: rgba(57,60,53,0.793);
+  backdrop-filter: blur(5px);
   color: rgb(30,212,248);
 }
 
@@ -45,8 +45,9 @@
 .boton{
   display: flex;
   justify-content: center;
-  background-color: rgba(0,91,114,0.715);
-  border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);  
+ backdrop-filter: blur(5px);
+ border-radius: 5px;
   margin: 3px;
   padding: 12px;
   text-shadow: 1px 1px 2px black;
@@ -71,9 +72,8 @@
 .eliminar{
   display: flex;
   justify-content: center;
-  
-  background-color: rgba(0,91,114,0.715);
-  
+  background-color: rgba(255, 255, 255, .15);  
+ backdrop-filter: blur(5px); 
   margin: 3px;
   padding: 12px;
   text-shadow: 1px 1px 2px black;
